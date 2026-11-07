@@ -10,6 +10,8 @@
 #ifndef U8G2_ESP32_HAL_H_
 #define U8G2_ESP32_HAL_H_
 #include "u8g2.h"
+#include "esp_idf_version.h"
+#include "esp_err.h"
 
 #include "driver/gpio.h"
 
